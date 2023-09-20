@@ -3,6 +3,7 @@
   - New
   - Add `q`, `qd`, `qs` alias for `queueshow`, `queuedel` and `queueskip`
   - Changed
+    - Allow deletion of multiple queues with a single command
   
 - v2.1.0
   - New
